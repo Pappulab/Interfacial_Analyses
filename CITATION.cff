@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Farag"
+  given-names: "Mina"
+  orcid: "https://orcid.org/0000-0002-6457-6848"
+- family-names: "Cohen"
+  given-names: "Samuel"
+- family-names: "Borcherds"
+  given-names: "Wade"
+- family-names: "Bremer"
+  given-names: "Anne"
+- family-names: "Mittag"
+  given-names: "Tanja"
+- family-names: "Pappu"
+  given-names: "Rohit"
+title: "Condensates formed by prion-like low-complexity domains have small-world network structures and interfaces defined by expanded conformations"
+repository name: "Interfacial_Analyses"
+version: 1.0.0
+doi: 10.5281/zenodo.1234
+date-released: 2022-11-23
+url: "https://github.com/Pappulab/Interfacial_Analyses"
